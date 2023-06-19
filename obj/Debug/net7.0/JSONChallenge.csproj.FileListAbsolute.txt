@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\JSONChallenge\bin\Debug\net7.0\JSONChallenge.exe
+C:\Informatique\CSharp\wildschool\JSONChallenge\bin\Debug\net7.0\JSONChallenge.deps.json
+C:\Informatique\CSharp\wildschool\JSONChallenge\bin\Debug\net7.0\JSONChallenge.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\JSONChallenge\bin\Debug\net7.0\JSONChallenge.dll
+C:\Informatique\CSharp\wildschool\JSONChallenge\bin\Debug\net7.0\JSONChallenge.pdb
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.dll
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\refint\JSONChallenge.dll
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.pdb
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\JSONChallenge.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\JSONChallenge\obj\Debug\net7.0\ref\JSONChallenge.dll
